@@ -24,3 +24,5 @@ def sum_numbers(a, b):
 def usd_to_eur(d):
     """Return euro."""
     return d * 0.8
+
+"""komet"""
