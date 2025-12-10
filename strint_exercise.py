@@ -1,0 +1,11 @@
+first_name = 'James'
+last_name = 'Bond'
+full_name = first_name + ' ' + last_name
+self_description_sentence = f'My name is {last_name}, {first_name} {last_name}.'
+cake = 'vahukoormarjadtäidispõhi'
+print(cake[:8], cake[8:14], cake[14:20], cake[20:], sep='\n')
+original_string = 'Programming is fun!'
+backwards = original_string[::-1]
+every_other = original_string[::2]
+first_word_reversed = original_string[:11]
+first_word_reversed = first_word_reversed[::-1]
